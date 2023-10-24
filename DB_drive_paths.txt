@@ -1,0 +1,17 @@
+customers_dataset: https://drive.google.com/file/d/1FspH4St9F1GjusZrzstR3MLVw6WZkK6_/view?usp=drive_link
+
+geolocation_dataset: https://drive.google.com/file/d/1R1AAzqIKnooW1oAEX_i5UUXNVeHYNRYY/view?usp=drive_link
+
+order_items: https://drive.google.com/file/d/1SvaEgGlRlN0yddyihG3B8EXMwg8xQcjl/view?usp=sharing
+
+order_payment: https://drive.google.com/file/d/1SvaEgGlRlN0yddyihG3B8EXMwg8xQcjl/view?usp=sharing
+
+order_reviews: https://drive.google.com/file/d/1dfy5GPugOIz7eGUNsnLZL7Ffm1DfoNj1/view?usp=sharing
+
+orders: https://drive.google.com/file/d/1aw6funjdB9PUnWERCpISLPOYCQXQyEls/view?usp=sharing
+
+products: https://drive.google.com/file/d/1aw6funjdB9PUnWERCpISLPOYCQXQyEls/view?usp=sharing
+
+sellers: https://drive.google.com/file/d/18pJdRLpzzaLHhiGbTeR9ESEEuE0rybM4/view?usp=sharing
+
+product_category_name: https://drive.google.com/file/d/18pJdRLpzzaLHhiGbTeR9ESEEuE0rybM4/view?usp=sharing
